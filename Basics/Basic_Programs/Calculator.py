@@ -9,15 +9,15 @@ if operator == "+":
     print(result)
 
 elif operator == "-":
-    result = mun1 - num2
+    result = num1 - num2
     print(result)
 
 elif operator == "*":
-    result = mun1 * num2
+    result = num1 * num2
     print(result)
 
 elif operator == "/":
-    result = mun1 / num2
+    result = num1 / num2
     print(result)
     # print(round(result))
 
