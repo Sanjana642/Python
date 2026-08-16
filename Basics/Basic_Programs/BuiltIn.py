@@ -1,6 +1,6 @@
 import math
 
-# print(math.py)
+# print(math.pi)
 #output = 3.14159...
 
 print(math.e)
