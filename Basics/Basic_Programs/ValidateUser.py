@@ -15,7 +15,7 @@ elif not username.isalpha():
     print("Username must not contain digits!")
 
 else :
-    print("Welcome {username}")
+    print(f"Welcome {username}")
 
 #output -
 #Enter a username : BroCode = welcome BroCode

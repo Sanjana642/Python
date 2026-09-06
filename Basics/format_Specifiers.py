@@ -39,6 +39,7 @@ print(f"Price 1 is ${price1:,.2f}")  #price1 = 3000.14159
 #3 Price 1 is $3.14159
 #4 Price 1 is $    3.14159 
 #5 Price 1 is $ 3.14159
-#6 Price 1 is $ 3.14159
-#7 Price 1 is $3,000.14159
-#8 Price 1 is $ 3,000.14
+#6 Price 1 is $+3.14159
+#7 Price 1 is $ 3.14159
+#8 Price 1 is $3.14159
+#9 Price 1 is $ 3.14

@@ -5,6 +5,7 @@ menu = {
     "nachos" : 4.45,
     "popcorn" : 1.45,
     "fries" : 3.45,
+    "penne pasta": 12.56,
     "chips" : 2.05,
     "burger" : 5.80,
     "sandwich" : 5.78,

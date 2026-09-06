@@ -53,4 +53,5 @@ for x in range(my_time, 0, -1):
 
 print("TIME'S UP!")
 
-#output - Enter the time in seconds: 11- now each sec it will execute till from 11 to 01 then times up
+# output - 
+#Enter the time in seconds: 11- now each sec it will execute till from 11 to 01 then times up

@@ -34,6 +34,17 @@ values = capitals.values()
 for value in capitals.values():
     print(value)
 
-#items = capitals.items()
+items = capitals.items()
+for items in capitals.items():
+    print(f"{items}")
+# output-
+# ('India', 'New Delhi')
+# ('China', 'Beijing')
+# ('Russia', 'Moscow')
+
 for key,value in capitals.items():
     print(f"{key}:{value}")
+# output -
+# India:New Delhi
+# China:Beijing
+# Russia:Moscow

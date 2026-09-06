@@ -1,7 +1,7 @@
 # dice art program -
 import random
 
-# print("\u25cF \u250c \u2500 \u2510 \u2502 \u2502 \u2514 \u2500 \u2518 ") for asci art 
+# print("\u25cF \u250c \u2500 \u2510 \u2502 \u2502 \u2514 \u2500 \u2518") for asci art 
 
 dice_art ={
     1: (
