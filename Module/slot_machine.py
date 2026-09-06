@@ -82,7 +82,7 @@ def main():
             break
 
     print("-------------------------------------------")
-    print("Game Over! Your final balance is ${balance}")
+    print(f"Game Over! Your final balance is ${balance}")
 
 
 if __name__ == "__main__":

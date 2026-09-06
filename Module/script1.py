@@ -6,7 +6,7 @@
 
 # library: Import library for functionality
 
-# from script2 import * -
+# from script2 import * - 
 
 print(__name__)
 
